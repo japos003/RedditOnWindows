@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Net;
+using System.Windows.Forms;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
@@ -34,9 +35,19 @@ namespace RedditOnWindows
         {
             var client = new WebClient();
             this.website = "http://www.reddit.com/r/" + subreddit + "/.json";
-            website_contents = client.DownloadString(website);
+            try {
+                website_contents = client.DownloadString(website);
 
-            analyzeJSON();
+                analyzeJSON();
+            } catch(WebException we)
+            {
+                MessageBox.Show("Subreddit failed to show. Showing main page...");
+                this.website = "http://www.reddit.com/.json";
+                website_contents = client.DownloadString(website);
+
+                analyzeJSON();
+            }
+
         }
 
         public List<SubredditEntry> getEntries()
