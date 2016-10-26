@@ -1,0 +1,11 @@
+C:\Users\fullm\Desktop\Projects\C#\RedditOnWindows\RedditOnWindows\bin\Debug\RedditOnWindows.exe.config
+C:\Users\fullm\Desktop\Projects\C#\RedditOnWindows\RedditOnWindows\bin\Debug\RedditOnWindows.exe
+C:\Users\fullm\Desktop\Projects\C#\RedditOnWindows\RedditOnWindows\bin\Debug\RedditOnWindows.pdb
+C:\Users\fullm\Desktop\Projects\C#\RedditOnWindows\RedditOnWindows\obj\Debug\RedditOnWindows.csprojResolveAssemblyReference.cache
+C:\Users\fullm\Desktop\Projects\C#\RedditOnWindows\RedditOnWindows\obj\Debug\RedditOnWindows.MainWindow.resources
+C:\Users\fullm\Desktop\Projects\C#\RedditOnWindows\RedditOnWindows\obj\Debug\RedditOnWindows.Properties.Resources.resources
+C:\Users\fullm\Desktop\Projects\C#\RedditOnWindows\RedditOnWindows\obj\Debug\RedditOnWindows.csproj.GenerateResource.Cache
+C:\Users\fullm\Desktop\Projects\C#\RedditOnWindows\RedditOnWindows\obj\Debug\RedditOnWindows.exe
+C:\Users\fullm\Desktop\Projects\C#\RedditOnWindows\RedditOnWindows\obj\Debug\RedditOnWindows.pdb
+C:\Users\fullm\Desktop\Projects\C#\RedditOnWindows\RedditOnWindows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fullm\Desktop\Projects\C#\RedditOnWindows\RedditOnWindows\bin\Debug\Newtonsoft.Json.xml
